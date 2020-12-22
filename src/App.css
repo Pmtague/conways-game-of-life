@@ -1,0 +1,94 @@
+.App {
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-template-rows: repeat(6, auto);
+	padding: 5px;
+}
+
+/* Navigation */
+.main-item-1 {
+	padding: 20px;
+	font-size: 50px;
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+
+/* Generations Tracker */
+.main-item-6 {
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+
+/* Game Board */
+.main-item-2 {
+	padding: 20px;
+	font-size: auto;
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 3;
+	grid-row-end: 6;
+}
+
+/* Game Controls */
+.main-item-3 {
+	padding: 20px;
+	font-size: auto;
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 6;
+	grid-row-end: 7;
+}
+
+/* Presets Heading */
+.main-item-7 {
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+
+/* Presets */
+.main-item-4 {
+	padding: 20px;
+	font-size: auto;
+	text-align: center;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 3;
+	grid-row-end: 4;
+}
+
+/* Game Rules Heading */
+.main-item-8 {
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+
+/* Game Rules */
+.main-item-5 {
+	padding: 20px;
+	font-size: auto;
+	text-align: center;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 5;
+	grid-row-end: 7;
+}

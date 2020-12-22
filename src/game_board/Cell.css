@@ -1,0 +1,17 @@
+.grid-item {
+	background-color: black;
+	border: .1em solid white;
+	padding: 1em;
+	text-align: center;
+}
+
+.grid-item-selected {
+	background-color: white;
+	border: .1em solid white;
+	padding: 1em;
+	text-align: center;
+}
+
+.grid-item:hover {
+	background-color: white;
+}

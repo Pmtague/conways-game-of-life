@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 c912a0d4362d97e794fc61d2f6fc522acbb1895b Penny Tague <pmtague9@gmail.com> 1607390809 -0800	commit (initial): Grid displaying, navbar contains title
+c912a0d4362d97e794fc61d2f6fc522acbb1895b ca081f85683563197c5b396ada046757eb56dbb1 Penny Tague <pmtague9@gmail.com> 1607478408 -0800	commit: Created grid state and some of the game board setup
+ca081f85683563197c5b396ada046757eb56dbb1 b4752bf6a56051d3773b93eb4f9d0d6a4424031e Penny Tague <pmtague9@gmail.com> 1607645039 -0800	commit: Got cell hover and selection/deselection functionality working
+b4752bf6a56051d3773b93eb4f9d0d6a4424031e b4752bf6a56051d3773b93eb4f9d0d6a4424031e Penny Tague <pmtague9@gmail.com> 1607645054 -0800	checkout: moving from master to cell-selection
+b4752bf6a56051d3773b93eb4f9d0d6a4424031e b4752bf6a56051d3773b93eb4f9d0d6a4424031e Penny Tague <pmtague9@gmail.com> 1607648836 -0800	checkout: moving from cell-selection to buttons
+b4752bf6a56051d3773b93eb4f9d0d6a4424031e 110c5454ea1da414f8e34dc7b03e05461b281f01 Penny Tague <pmtague9@gmail.com> 1607648860 -0800	commit: Added Start, pause and stop buttons to the UI
+110c5454ea1da414f8e34dc7b03e05461b281f01 110c5454ea1da414f8e34dc7b03e05461b281f01 Penny Tague <pmtague9@gmail.com> 1607706481 -0800	checkout: moving from buttons to grid-organization
+110c5454ea1da414f8e34dc7b03e05461b281f01 3491a6fccb2f3c6797fc34eb10949de615107dea Penny Tague <pmtague9@gmail.com> 1607706505 -0800	commit: Grid organized and displaying as desired
+3491a6fccb2f3c6797fc34eb10949de615107dea 3491a6fccb2f3c6797fc34eb10949de615107dea Penny Tague <pmtague9@gmail.com> 1607706618 -0800	checkout: moving from grid-organization to ui-setup
+3491a6fccb2f3c6797fc34eb10949de615107dea 175da973e46bc9de1b14ead18e7970ee2d88cd4c Penny Tague <pmtague9@gmail.com> 1608548902 -0800	commit: More work on grid positioning, still WIP
